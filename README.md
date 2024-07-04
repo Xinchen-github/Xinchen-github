@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Publications (*First/co-first authorship)</h2>
+<h2 align="left">Publications</h2>
 
 ###
 
@@ -34,11 +34,17 @@
         
         
         
-            br>                               <br>                                                              Fan, Z., *Zou, X., Wang, G., Liu, Y., Jiang, Y., Wang, H., Zhang, P., Wei, F., Du, X., Wang, M., Sun, X., Ji, B., Hu, X., Chen, L., Zhou, P., Wang, D., Bai, J., Xiao, X., Zuo, L., Xia, X., … Lv, G. (2024). A transcriptome based molecular classification scheme for cholangiocarcinoma and subtype-derived prognostic biomarker. Nature communications, 15(1), 484. https://doi.org/10.1038/s41467-024-44748-8
+        
+        
+            br><br>Fan, Z., Zou, X., Wang, G., Liu, Y., Jiang, Y., Wang, H., Zhang, P., Wei, F., Du, X., Wang, M., Sun, X., Ji, B., Hu, X., Chen, L., Zhou, P., Wang, D., Bai, J., Xiao, X., Zuo, L., Xia, X., … Lv, G. (2024). A transcriptome based molecular classification scheme for cholangiocarcinoma and subtype-derived prognostic biomarker. Nature communications, 15(1), 484. https://doi.org/10.1038/s41467-024-44748-8
+        
+        
         
         
         
         br><br>Ge, J., Xiao, X., Zhou, H., Tang, M., Bai, J., Zou, X., Zhang, C., Huang, C., Feng, X., Liu, T., Yi, X., Xia, X., Liu, H., & Chen, Z. (2023). Single-cell profiling reveals tumour cell heterogeneity accompanying a pre-malignant and immunosuppressive microenvironment in gastric adenocarcinoma. Clinical and translational medicine, 13(12), e1490. https://doi.org/10.1002/ctm2.1490
+        
+        
         
         
         
