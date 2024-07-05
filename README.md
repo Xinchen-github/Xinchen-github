@@ -43,8 +43,12 @@
         
         
         
+        
+        
        
 Fan, Z., Zou, X., Wang, G., Liu, Y., Jiang, Y., Wang, H., Zhang, P., Wei, F., Du, X., Wang, M., Sun, X., Ji, B., Hu, X., Chen, L., Zhou, P., Wang, D., Bai, J., Xiao, X., Zuo, L., Xia, X., … Lv, G. (2024). A transcriptome based molecular classification scheme for cholangiocarcinoma and subtype-derived prognostic biomarker. Nature communications, 15(1), 484. https://doi.org/10.1038/s41467-024-44748-8
+        
+        
         
         
         
@@ -61,6 +65,8 @@ Ge, J., Xiao, X., Zhou, H., Tang, M., Bai, J., Zou, X., Zhang, C., Huang, C., Fe
         
         
         
+        
+        
 
 ###
 
@@ -68,7 +74,7 @@ Ge, J., Xiao, X., Zhou, H., Tang, M., Bai, J., Zou, X., Zhang, C., Huang, C., Fe
 
 ###
 
-<p align="left">•	Computer Skills: Proficiency with R, STATA, Linux, and Bash environment customisation in high-performance computer.<br><br>•	Multiomics analysis Skills: Proficient in advanced analyses related to multiomics integration of large sequencing-based datasets obtained from Methylome-seq, CAGE-seq, ChIP-seq, MNase-seq, WGS/WES, bulk/single-ccell RNA-seq.</p>
+<p align="left">•	Computer Skills: Proficiency with R, STATA, Linux, and Bash environment customisation in high-performance computer.<br><br>•	Multiomics analysis Skills: Proficient in advanced analyses related to multiomics integration of large sequencing-based datasets obtained from Methylome-seq, CAGE-seq, ChIP-seq, MNase-seq, WGS/WES, bulk/single-cell RNA-seq.</p>
 
 ###
 
